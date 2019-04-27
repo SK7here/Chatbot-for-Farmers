@@ -1,0 +1,67 @@
+{
+  "axis bank" : {
+    "loan" : {
+      "agriculture loan" : {
+        "horticulture" : {
+          "desc:" : "Axis Bank provides loans for horticulture projects involving modern horticultural practices",
+          "link:" : "https://www.axisbank.com/agri-and-rural/loans/loans-for-horticulture-projects/features-benefits"
+        },
+        "tractor" : {
+          "desc:" : "Get the best deals in the market and a range of attractive features on loans for tractors",
+          "link:" : "https://www.axisbank.com/agri-and-rural/loans/tractor-loans"
+        }
+      },
+      "car loan" : {
+        "desc" : "Benefit from a high Loan To Value ratio",
+        "link" : "https://www.axisbank.com/retail/loans/car-loan"
+      },
+      "education loan" : {
+        "desc" : "Loans available for a variety of courses with easy loan disbursal",
+        "link" : "https://www.axisbank.com/retail/loans/education-loan"
+      },
+      "home loan" : {
+        "desc" : "Choose from a wide range of home loans depending on your needs",
+        "link" : "https://www.axisbank.com/retail/loans/home-loan"
+      },
+      "personal loan" : {
+        "desc" : "Avail personal loan for holiday, home renovation & marriage at attractive interest rates",
+        "link" : "https://www.axisbank.com/retail/loans/personal-loan"
+      }
+    }
+  },
+  "disease" : {
+    "gooseberry" : {
+      "Anthracnose" : {
+        "desc" : "Remove all leaf debris from around plants as soon as they fall from plants; applications of apropriate fungicide may be necessary"
+      },
+      "MildewSphaerotheca" : {
+        "desc" : "Spray as buds are opening with Bordeaux mixture 4-4-50, lime sulphur 1-25 or liver of sulphur 1 oz. to 2 gallons. Liver of sulphur at 7 day intervals for 2 months."
+      },
+      "Stinkbugs" : {
+        "desc" : "Remove weeds around crop which may act as overwintering sites for stink bugs and practice good weed management throughout the year; organically accepted control methods include the use of insecticidal soaps, kaolin clay and preservation of natural enemies."
+      }
+    },
+    "millet" : {
+      "Ergot" : {
+        "desc" : "Ergot can be managed in pearl millet, through the use of host plant resistance, pollen management, avoidance and sanitation. Host plant resistance to ergot can be developed using appropriate inoculation, hybridisation and selection techniques. Sources of host plant resistance are developed and made available by public- and private-sector seed companies"
+      },
+      "Rust" : {
+        "desc" : "Plant resistant varieties of millet if rust is a persistent problem; avoid the use of overhead irrigation; do now plant millet in close proximity to eggplant or other Solanaceous crops; there are no recommended chemical controls for rust."
+      },
+      "kernelsmut" : {
+        "desc" : "Include the use of semi-dwarf varieties in fields with a history of smut and to reduce nitrogen rates and floodwater depths in fields where very susceptible varieties must be grown."
+      }
+    },
+    "onion" : {
+      "neckrot" : {
+        "desc" : "Use of colored varieties.Thorough curing after harvest.Keep storage temperature slightly above 32° F."
+      },
+      "smudge" : {
+        "desc" : "Colored varieties are highly resistant, white varieties are susceptible. Thorough curing and protection from rain after harvest."
+      },
+      "softrot" : {
+        "desc" : "Proper harvesting and curing of bulbs. Keep storage well ventila ted and slightly above 32° F."
+      }
+    }
+  }
+}
